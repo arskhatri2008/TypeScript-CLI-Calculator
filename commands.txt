@@ -1,0 +1,6 @@
+Commands use in this applicatoin.
+
+- npm init
+- tsc --init
+- npm i inquirer
+- npm i --save-dev @types/inquirer
