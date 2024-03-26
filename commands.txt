@@ -8,3 +8,5 @@ Commands use in this applicatoin.
 Some Modification Required.
 
 -- tsconfig.json --> change --> "target": "ES2022" | "module": "NodeNext" | "moduleResolution": "NodeNext"
+
+-- package.json --> add --> "type": "module"
