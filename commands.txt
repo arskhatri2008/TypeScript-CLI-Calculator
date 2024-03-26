@@ -10,3 +10,13 @@ Some Modification Required.
 -- tsconfig.json --> change --> "target": "ES2022" | "module": "NodeNext" | "moduleResolution": "NodeNext"
 
 -- package.json --> add --> "type": "module"
+
+Steps To Publish File To NPM Registery.
+
+-- Add mentioned code in line No:1 --> #! /usr/bin/env node (This code is also known as SHABANG)
+
+-- package.json --> add --> "bin": "index.js" (file name)
+-- Signup account in npmjs.com
+-- login account in npmjs.com
+then run command in terminal --> npm login
+after login then run command --> npm publish (make sure that your package name must be unique otherwise it will show error)
