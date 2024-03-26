@@ -20,3 +20,9 @@ Steps To Publish File To NPM Registery.
 -- login account in npmjs.com
 then run command in terminal --> npm login
 after login then run command --> npm publish (make sure that your package name must be unique otherwise it will show error)
+
+-- now open simple command prompt and run command --> npx (your package name)
+-- in my case i run command --> npx arskhatri2008-simple-calculator
+
+-- npm (Node Package Manager/Initilizer)
+-- npx (Node Pacakge Execution)
