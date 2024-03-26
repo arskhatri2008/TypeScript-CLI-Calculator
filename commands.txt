@@ -3,7 +3,7 @@ Commands use in this applicatoin.
 - npm init // Install package.json
 - tsc --init // Setup TS configuration
 - npm i inquirer // Install inquirer in file
-- npm i --save-dev @types/inquirer // Install/Setup TypeScript dependencies
+- npm i --save-dev @types/inquirer // Install/Setup TypeScript/DevDependencies
 
 Some Modification Required.
 
