@@ -4,3 +4,7 @@ Commands use in this applicatoin.
 - tsc --init // Setup TS configuration
 - npm i inquirer // Install inquirer in file
 - npm i --save-dev @types/inquirer // Install/Setup TypeScript dependencies
+
+Some Modification Required.
+
+-- tsconfig.json --> change --> "target": "ES2022" | "module": "NodeNext" | "moduleResolution": "NodeNext"
